@@ -7,7 +7,7 @@ This project is about designing a small **adjustable buck converter module**.
 
 Until now, I have usually used ready-made DC-DC modules in my projects. However, for future PCBs I would like to design my own power supplies instead of depending on external modules. Since I am not yet fully familiar with switching regulator design, I thought the most logical first step was to build a simple standalone module, test it, and understand what can go wrong before integrating this kind of circuit into larger boards.
 
-<img align="center" alt="Mini Adjustable Buck Converter Module 3D render" width="1200" src="./assets/img/3D.png" />
+<img align="center" alt="Mini Adjustable Buck Converter Module 3D render" width="1200" src="./img/3D.png" />
 
 The design is based on the **AP63200WU-7**, an adjustable synchronous buck converter from Diodes Incorporated. The PCB was designed in **KiCad** as a 2-layer board, with GND planes on both layers, stitching vias, test points, and a compact layout around the regulator.
 
@@ -23,10 +23,10 @@ The design is based on the **AP63200WU-7**, an adjustable synchronous buck conve
 - 2-layer PCB designed for JLCPCB
 
 ### LAYOUT
-<img align="center" alt="PCB layout" width="1200" src="./assets/img/LAYOUT.png" />
+<img align="center" alt="PCB layout" width="1200" src="./img/LAYOUT.png" />
 
 ### SCHEMATIC
-<img align="center" alt="PCB layout" width="1200" src="./assets/img/SCH.svg" />
+<img align="center" alt="PCB layout" width="1200" src="./img/SCH.svg" />
 
 This is a first version focused on learning and testing. The next steps are to manufacture the PCB, assemble it, and measure ripple, temperature and regulation under load.
 
@@ -40,7 +40,7 @@ Este proyecto consiste en diseñar un pequeño **módulo buck converter ajustabl
 
 Hasta ahora, en muchos proyectos he usado módulos DC-DC comerciales ya hechos. Sin embargo, para futuras PCBs me gustaría poder diseñar mis propias fuentes de alimentación en lugar de depender siempre de módulos externos. Como todavía no estoy muy familiarizado con el diseño de fuentes conmutadas, he visto más lógico empezar con un módulo sencillo, probarlo por separado y entender qué cosas pueden fallar antes de integrarlo directamente en placas más grandes.
 
-<img align="center" alt="Mini Adjustable Buck Converter Module 3D render" width="1200" src="./assets/img/3D.png" />
+<img align="center" alt="Mini Adjustable Buck Converter Module 3D render" width="1200" src="./img/3D.png" />
 
 El diseño está basado en el **AP63200WU-7**, un convertidor buck síncrono ajustable de Diodes Incorporated. La PCB está diseñada en **KiCad** como una placa de 2 capas, con planos de masa en ambas caras, vías de stitching, test points y un layout compacto alrededor del regulador.
 
@@ -56,9 +56,9 @@ El diseño está basado en el **AP63200WU-7**, un convertidor buck síncrono aju
 - PCB de 2 capas pensada para JLCPCB
 
 ### LAYOUT
-<img align="center" alt="PCB layout" width="1200" src="./assets/img/LAYOUT.png" />
+<img align="center" alt="PCB layout" width="1200" src="./img/LAYOUT.png" />
 
 ### SCHEMATIC
-<img align="center" alt="PCB layout" width="1200" src="./assets/img/SCH.svg" />
+<img align="center" alt="PCB layout" width="1200" src="./img/SCH.svg" />
 
 Esta es una primera versión orientada a aprendizaje y pruebas. Los próximos pasos son fabricar la PCB, montarla y medir ripple, temperatura y regulación bajo carga.
