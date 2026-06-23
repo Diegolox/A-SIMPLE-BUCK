@@ -26,7 +26,7 @@ The design is based on the **AP63200WU-7**, an adjustable synchronous buck conve
 <img align="center" alt="PCB layout" width="1200" src="./img/LAYOUT.png" />
 
 ### SCHEMATIC
-<img align="center" alt="PCB layout" width="1200" src="./img/SCH.svg" />
+<img align="center" alt="PCB layout" width="1200" src="./img/SCH_1.svg" />
 
 This is a first version focused on learning and testing. The next steps are to manufacture the PCB, assemble it, and measure ripple, temperature and regulation under load.
 
@@ -59,6 +59,6 @@ El diseño está basado en el **AP63200WU-7**, un convertidor buck síncrono aju
 <img align="center" alt="PCB layout" width="1200" src="./img/LAYOUT.png" />
 
 ### SCHEMATIC
-<img align="center" alt="PCB layout" width="1200" src="./img/SCH.svg" />
+<img align="center" alt="PCB layout" width="1200" src="./img/SCH_1.svg" />
 
 Esta es una primera versión orientada a aprendizaje y pruebas. Los próximos pasos son fabricar la PCB, montarla y medir ripple, temperatura y regulación bajo carga.
